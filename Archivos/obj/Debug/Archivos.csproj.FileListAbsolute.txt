@@ -1,0 +1,7 @@
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Archivos\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Archivos\Archivos\obj\Debug\Archivos.pdb
